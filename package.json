@@ -1,0 +1,22 @@
+{
+  "name": "core-sds",
+  "version": "1.0.0",
+  "description": "Core Stock Distributin System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.kodesumber.com:sds/core-sds.git"
+  },
+  "author": "Arif Suwadji",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "date-and-time": "^0.6.3",
+    "express": "^4.16.4",
+    "mysql": "^2.17.0",
+    "request": "^2.88.0"
+  }
+}

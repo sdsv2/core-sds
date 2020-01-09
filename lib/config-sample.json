@@ -1,0 +1,18 @@
+{
+  "core":{
+    "title": "Core SDS",
+    "listen_port": 4674,
+    "api_key": "please change me"
+  },
+  "mysql":{
+    "host": "please change me",
+    "database": "please change me",
+    "user": "please change me",
+    "password": "please change me",
+    "selective_max_statement_time": 0
+  },
+  "daemon":{
+    "url": "http://changeme:changeme/daemon/topup",
+    "apiKey": "please change me"
+  }
+}
